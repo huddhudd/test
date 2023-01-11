@@ -1,0 +1,1 @@
+client_windows_amd64 -r "192.168.0.228:4000" -l ":3260"  -mode fast2 -nocomp -autoexpire 900 -sockbuf 16777217 -dscp 46  --crypt none  --quiet --mtu 1200
